@@ -5,12 +5,12 @@
 This jupyter notebook contains some tests of parameters for parametric UMAP (data embedding method) implementation and can be used to generate plot from these tests. 
   
   
-<b> try of ScVelo parameter
+## try of ScVelo parameter
   
 This jupyter notebook contains some tests of parameters for ScVelo (velocity embedding method) implementation and can be used to generate plot from these tests. 
   
   
-<b> parametrisation
+## parametrisation
   
 This jupyter notebook contains the main part of this project.
 It's contains : 
