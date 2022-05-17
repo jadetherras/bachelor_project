@@ -1,6 +1,6 @@
 # A STUDY OF TDA METHODS FOR SCRNA VELOCITY
 
-<b> try of UMAP parameter <b>
+## try of UMAP parameter
   
 This jupyter notebook contains some tests of parameters for parametric UMAP (data embedding method) implementation and can be used to generate plot from these tests. 
   
