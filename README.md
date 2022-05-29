@@ -20,3 +20,5 @@ new methods for velocity embedding (implementation and test)
 methods for velocity and dataset inverse embedding
 verification for test of the jacobian and scvelo using PCA
   
+
+JUPYTER NOTEBOOK - PYTHON
