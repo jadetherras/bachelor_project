@@ -14,11 +14,16 @@ This jupyter notebook contains some tests of parameters for ScVelo (velocity emb
   
 This jupyter notebook contains the main part of this project.
 It's contains : 
-synthetic dataset generation and biological data
-test for UMAP and parametric UMAP
-new methods for velocity embedding (implementation and test) 
-methods for velocity and dataset inverse embedding
-verification for test of the jacobian and scvelo using PCA
+
+•synthetic dataset generation and biological data
+
+• test for UMAP and parametric UMAP
+
+• new methods for velocity embedding (implementation and test) 
+
+• methods for velocity and dataset inverse embedding
+
+• verification for test of the jacobian and scvelo using PCA
   
 
 JUPYTER NOTEBOOK - PYTHON
